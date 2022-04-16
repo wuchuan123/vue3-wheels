@@ -1,5 +1,5 @@
 {
-  "name": "vue3-ui",
+  "name": "vue3-wheels-dist",
   "version": "0.0.1",
   "files": [
     "dist/lib/*"
