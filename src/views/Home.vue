@@ -6,7 +6,7 @@
       <h1>Vue3 UI Study</h1>
       <h2>学习Vue3 用的 UI 框架</h2>
       <p class="actions">
-        <a href="https://github.com">GitHub</a>
+        <a href="https://github.com/wuchuan123/vue3-wheels">GitHub</a>
         <router-link to="/doc">开始</router-link>
       </p>
     </div>
