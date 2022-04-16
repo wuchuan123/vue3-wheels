@@ -10,13 +10,13 @@ export default {
     globals: {
       vue: 'Vue'
     },
-    name: 'Gulu',
-    file: 'dist/lib/gulu.js',
+    name: 'Vue3 UI',
+    file: 'dist/lib/vue3-ui.js',
     format: 'umd',
     plugins: [terser()]
   }, {
-    name: 'Gulu',
-    file: 'dist/lib/gulu.esm.js',
+    name: 'Vue3 UI',
+    file: 'dist/lib/vue3-ui.esm.js',
     format: 'es',
     plugins: [terser()]
   }],
